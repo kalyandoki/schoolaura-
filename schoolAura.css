@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.first-container {
+    width: 100%;
+    background-color: #ffffff;
+    margin: 10px;
+}
+
+.contact {
+    background-color: orange;
+    text-align: center;
+    color: white;
+    width: 30px;
+    margin-top: 20px;
+    padding: 10px;
+    padding-left: 10px;
+    border-radius: 35px;
+}
+
+.con {
+    margin-right: 20px;
+}
+
+.email {
+    color: black;
+}
+
+.button {
+    background-color: black;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.image-school {
+    background-image: url("https://schoolaura.com/Content/new_assets/images/header/logo-cloud.png");
+    width: 60px;
+    height: 40px;
+    margin: 20px;
+}
+
+.main-fram {
+    background-color: orange;
+    width: 100%;
+}
+
+.head {
+    color: white;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.head-black {
+    color: black;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.card {
+    background-color: white;
+    padding: 10px;
+    width: 200px;
+    height: 200;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.exam {
+    color: black;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.button1 {
+    text-align: center;
+    background-color: orange;
+    width: 100px;
+    border-radius: 10px;
+    border: 0px;
+    margin: 5px;
+}
+
+.card-2 {
+    background-color: white;
+}
+
+.exam-2 {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: grey;
+    text-decoration: underline;
+}
+
+.Forget {
+    font-family: "Roboto";
+    color: grey;
+    text-decoration: underline;
+}
+
+.head-o {
+    color: orange;
+}
